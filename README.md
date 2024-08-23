@@ -1,4 +1,5 @@
 # todoReact
+
 ToDo App
 
 Use React Only
@@ -14,5 +15,4 @@ The App has following requirement
 - Mark a task completed.
 - When refreshed the list to earlier added tasks to persist in our frontend.
 
-
-
+Clone the repository and npm install
