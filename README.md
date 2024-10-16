@@ -2,6 +2,10 @@
 
 This is a simple and interactive **ToDo Application** built using **React**. The app helps users manage tasks efficiently by providing features to add, edit, mark as complete, and persist tasks across sessions. The core functionality includes task management and state persistence using the browser's local storage.
 
+## Live Demo
+
+You can view the live app on Netlify: [ToDo App](https://karanshah-todoapp-v1.netlify.app/)
+
 ## Features
 
 1. **Add New Tasks**
