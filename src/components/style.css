@@ -32,7 +32,7 @@
 .todo {
     display: flex;
     flex-direction: column;
-    height: 62%;
+    height: 55%;
     width: 60%;
     background: var(--white);
     border-radius: 2rem;
