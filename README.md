@@ -41,7 +41,7 @@ To run the app locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/karanshah1561998/Todo_App_React
+   git clone https://github.com/karanshah1561998/Todo_App
 2. **Install Dependencies: Navigate to the cloned repository's directory and run:**
    ```bash
    npm install
